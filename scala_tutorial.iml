@@ -11,5 +11,6 @@
     <orderEntry type="library" name="scala-sdk-2.11.7" level="application" />
     <orderEntry type="library" name="scala-library-2.11.7" level="project" />
     <orderEntry type="library" name="akka" level="project" />
+    <orderEntry type="library" name="MOEAFramework-2.9-Demo" level="project" />
   </component>
 </module>
